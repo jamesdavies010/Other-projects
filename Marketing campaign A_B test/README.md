@@ -73,8 +73,6 @@ This file includes multiple sheets:
 With **95% confidence**, we reject the null hypothesis and conclude that **NewYear_V1 (control) has a significantly higher conversion rate than NewYear_V2 (variant).**  
 Additionally, the results are significant even at a **99% confidence level**, though this was beyond the scope of the initial test.
 
-*(Note: A more reliable online calculator was used for the two-tailed test, as the binomial calculator provided only one-tailed results and inconsistent uplift values.)*
-
 ---
 
 ### Black Friday Campaign
